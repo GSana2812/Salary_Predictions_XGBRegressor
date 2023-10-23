@@ -14,8 +14,8 @@ I decided to transfer this project interface, in a more dynamic way, so a web ap
 In the predict, based on the components shown, you can play around with values and in the end you will get the predicted salary while on explore you have a representation of 
 charts and trends. 
 
--explorer_page.py -> code containing all necessary charts and visualizations
--predict_page.py -> code containing the prediction value
+-explorer_page.py -> code containing all necessary charts and visualizations <br>
+-predict_page.py -> code containing the prediction value <br>
 
 All these 2 pages will get concluded in the app.py file.
 
