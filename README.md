@@ -16,4 +16,6 @@ charts and trends.
 
 Feel free to experiment with the app: <b> streamlit run app.py </b>
 
+At a second moment, this app can be easily deployed in streamlit cloud community or another platform like docker. But this will probably take place with upcoming projects. 
+
 Libraries used: pandas, numpy, sklearn, warnings, streamlit, xgboost, matplotlib, plotly, seaborn
