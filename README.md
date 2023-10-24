@@ -8,7 +8,7 @@ In this project, I have approached a Regression Task, predicting salaries of Dat
 
 I have used XGBRegressor for making predictions, because in another alternate file, it yielded better results compared to Linear Regression, 
 DecisionTreeRegressor and RandomForestRegressor. The training and test results were really similar, so fortunately we didn't encounter any overfitting and the results were
-pleasible, so we did a good job with the data preprocessing. 
+pleasible, so we did a good job with the data preprocessing. The model results in inference model were saved in <b>saved_steps.pkl</b> file.
 
 I decided to transfer this project interface, in a more dynamic way, so a web app using streamlit library. There are 2 sections, the <b>predict</b> and <b>explore</b> section.
 In the predict, based on the components shown, you can play around with values and in the end you will get the predicted salary while on explore you have a representation of 
