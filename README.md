@@ -1,3 +1,5 @@
+# Salary Predictions using XGBRegressor
+
 In this project, I have approached a Regression Task, predicting salaries of Data Professionals, based on some components, such as:
 
 1. Company Size (Small/Medium/Large)
